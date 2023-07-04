@@ -1,0 +1,15 @@
+.banner{
+        background-color:LightPink;
+        width: 100%;
+        height:100px;
+        margin-bottom:100px;
+}
+
+.banner-text{
+            top:20%;
+            left:45%;
+            position:absolute;
+            transform:transform;
+            }
+h4{color:OliveDrab;}
+h2{color:DarkOliveGreen;}
